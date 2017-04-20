@@ -9,4 +9,4 @@ Benzer şeyleri orada da bulabilirsiniz. Siz neden buradaki parçaları kullanı
 
 ---
 
--- [Murat Çeşmecioğlu](http://murat.cesmecioglu.net)
+[Murat Çeşmecioğlu](http://murat.cesmecioglu.net)
