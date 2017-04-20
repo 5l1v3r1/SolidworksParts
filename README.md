@@ -9,6 +9,4 @@ Benzer şeyleri orada da bulabilirsiniz. Siz neden buradaki parçaları kullanı
 
 ---
 
-[Murat Çeşmecioğlu](http://murat.cesmecioglu.net)
-
-[@MuratCsmecioglu](http://twitter.com/muratcsmecioglu)
+-- [Murat Çeşmecioğlu](http://murat.cesmecioglu.net)
